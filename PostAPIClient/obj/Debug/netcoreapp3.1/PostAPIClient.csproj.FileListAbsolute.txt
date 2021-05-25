@@ -1,0 +1,13 @@
+E:\randomSoft\postAPI\PostAPIClient\bin\Debug\netcoreapp3.1\PostAPIClient.exe
+E:\randomSoft\postAPI\PostAPIClient\bin\Debug\netcoreapp3.1\PostAPIClient.deps.json
+E:\randomSoft\postAPI\PostAPIClient\bin\Debug\netcoreapp3.1\PostAPIClient.runtimeconfig.json
+E:\randomSoft\postAPI\PostAPIClient\bin\Debug\netcoreapp3.1\PostAPIClient.runtimeconfig.dev.json
+E:\randomSoft\postAPI\PostAPIClient\bin\Debug\netcoreapp3.1\PostAPIClient.dll
+E:\randomSoft\postAPI\PostAPIClient\bin\Debug\netcoreapp3.1\PostAPIClient.pdb
+E:\randomSoft\postAPI\PostAPIClient\obj\Debug\netcoreapp3.1\PostAPIClient.csprojAssemblyReference.cache
+E:\randomSoft\postAPI\PostAPIClient\obj\Debug\netcoreapp3.1\PostAPIClient.AssemblyInfoInputs.cache
+E:\randomSoft\postAPI\PostAPIClient\obj\Debug\netcoreapp3.1\PostAPIClient.AssemblyInfo.cs
+E:\randomSoft\postAPI\PostAPIClient\obj\Debug\netcoreapp3.1\PostAPIClient.csproj.CoreCompileInputs.cache
+E:\randomSoft\postAPI\PostAPIClient\obj\Debug\netcoreapp3.1\PostAPIClient.dll
+E:\randomSoft\postAPI\PostAPIClient\obj\Debug\netcoreapp3.1\PostAPIClient.pdb
+E:\randomSoft\postAPI\PostAPIClient\obj\Debug\netcoreapp3.1\PostAPIClient.genruntimeconfig.cache
